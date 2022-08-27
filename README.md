@@ -5,7 +5,7 @@ I am an informatics engineering student at YARSI university
 **About me**
 
 - 💡 I like to explore new technologies, I'm a Tech Enthusiast.
-- 🔭 Interest: Learning Android and Back-end.
+- 🔭 Interest: Learning Android and Backend.
 - ❤️ I love coding and music.
 
 <code><img height="40" alt="android" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"></code>
