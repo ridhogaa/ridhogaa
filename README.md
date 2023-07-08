@@ -15,12 +15,6 @@ I am an informatics engineering student at YARSI university
 <code><img height="40" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-
-#### Statistics
-[![ridhogaa github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ridhogaa&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![ridhogaa Github stats](https://github-readme-stats.vercel.app/api?username=ridhogaa&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ridhogaa Wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhogaa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ridhogaa Profile views](https://komarev.com/ghpvc/?username=ridhogaa&color=blue&style=flat&label=Profile+views)
