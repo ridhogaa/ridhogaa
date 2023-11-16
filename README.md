@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/ridhogaa">Hi, I'm Ridho Gymnastiar Al Rasyid</a></p>
+<p align=""><a href="https://github.com/ridhogaa">Hi, I'm Ridho Gymnastiar Al Rasyid</a></p>
 
 I am an informatics engineering student at YARSI university 
 
