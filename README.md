@@ -1,6 +1,6 @@
 <p align=""><a href="https://github.com/ridhogaa">Hi, I'm Ridho Gymnastiar Al Rasyid</a></p>
 
-I am an informatics engineering student at YARSI university 
+Android Developer 
 
 [![ridhogaa Wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhogaa&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
